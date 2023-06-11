@@ -40,4 +40,7 @@ I'm an up-and-coming front-end Developer that enjoys building responsive and per
 
 ![developers-gif-showcase](https://github.com/RichardSkartveit/RichardSkartveit/assets/114581981/03617f32-f6fd-42f4-aeac-78684445d0b5)
 
+SE YA LATER
+
+![animate-throwing-ball-preview-02](https://github.com/RichardSkartveit/RichardSkartveit/assets/114581981/da70673d-82c4-4f21-a1e6-229f73200c55)
 
