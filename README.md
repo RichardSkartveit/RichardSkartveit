@@ -11,8 +11,8 @@ Front-end developer
 -------------------
 
 I'm an up-and-coming front-end Developer that enjoys building responsive and performant web applications with great user experience.
-Rigth now i am a student at Noroff, to develop and understand the process is alot of fun! and something i will keep pushing! Looking forward
-to meat new comrads, who is sharing the same interest as me. 
+Right now I am a student at Noroff, developing and understanding the process is a lot of fun! and something I will keep pushing! Looking forward
+to meet new comrades, who share the same interest as me. 
 
 * 🌍  I'm based in Norway
 * ✉️  You can contact me at [richard\_skartveit@live.com](mailto:richard_skartveit@live.com)
